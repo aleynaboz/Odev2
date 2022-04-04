@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Seçilen ürünü sepete ekle
+* Id "com.ozdilek.ozdilekteyim:id/imgCart" li elementi bul ve tıkla
+* "3" saniye kadar bekle

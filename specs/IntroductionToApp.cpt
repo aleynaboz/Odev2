@@ -1,0 +1,17 @@
+Created by batuhanzafer on 2.04.2022
+
+This is a concept file with following syntax for each concept.
+# Sayfa üzerinde güncelleştirmeyi daha sonra hatırlat butonuna tıkla ve ulgulamanın başladığını kontrol et
+* "6" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/btnRemindLater" elemetine tıkla
+* "3" saniye kadar bekle
+
+# Alışverişe başla butonuna tıkla
+* "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" elemetine tıkla
+* "3" saniye kadar bekle
+
+# Kategoriler butonuna tıkla
+* "com.ozdilek.ozdilekteyim:id/nav_categories" elemetine tıkla
+* "3" saniye kadar bekle
+
+

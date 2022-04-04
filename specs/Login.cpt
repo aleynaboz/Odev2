@@ -1,0 +1,12 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı adı alanına email adresi gir
+* Id "com.ozdilek.ozdilekteyim:id/textinput_placeholder" li elementi bul ve tıkla
+* "com.ozdilek.ozdilekteyim:id/textinput_placeholder" li alana email adresi gir
+* "3" saniye kadar bekle
+
+# Password alanına şifre yaz
+* Id "com.ozdilek.ozdilekteyim:id/etPassword" li elementi bul ve tıkla
+* "com.ozdilek.ozdilekteyim:id/etPassword" li alana şifre gir
+* "3" saniye kadar bekle
